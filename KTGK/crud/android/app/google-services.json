@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102503112386",
+    "project_id": "ktgk-8f5ad",
+    "storage_bucket": "ktgk-8f5ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102503112386:android:bfea434384f5377c88e55b",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjP5OGk5yg4ETbrY7U1VnmVTUtWOGPbA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
